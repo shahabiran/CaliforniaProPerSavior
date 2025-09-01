@@ -1,10 +1,6 @@
-﻿# === CaliforniaProPerSavior gitignore ===
-# Mandatory
-.venv/
+﻿.venv/
 .idea/
 .env
-
-# Python cache / build
 __pycache__/
 *.py[cod]
 *.pyd
@@ -12,10 +8,6 @@ __pycache__/
 *.egg-info/
 build/
 dist/
-
-# OS noise
 Thumbs.db
 .DS_Store
-
-# Logs
 *.log
